@@ -12,6 +12,5 @@ int main( ){
 	// pass in width and height too:
 	ofRunApp(new ofApp());
 
-  ofRectangle myRect(0, 0, 100, 100);
-
+  
 }
